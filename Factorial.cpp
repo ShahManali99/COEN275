@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ncurses.h>
 using namespace std;
 
 long fact (int num) {
